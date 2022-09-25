@@ -34,3 +34,14 @@ To-do list - це застосунок для Windows платформ, оріє
 - Шифрування паролів зареєстрованих користувачів.
 ## Usecase діаграма
 ![image](https://user-images.githubusercontent.com/92300715/192144187-4b107312-e63b-4651-a332-7798ab261d3d.png)
+## Макет
+![image](https://user-images.githubusercontent.com/92300715/192144285-aa2179fe-b7d8-4c91-9ef1-151b9337620b.png)
+![image](https://user-images.githubusercontent.com/92300715/192144300-ed58d16a-0eaa-4ffc-8ebb-8e2e97ad1af8.png)
+![image](https://user-images.githubusercontent.com/92300715/192144323-49a12d5a-63ce-447c-9f00-5c12e318e760.png)
+![image](https://user-images.githubusercontent.com/92300715/192144329-04729036-3f99-40ed-95d6-1ff084663ab6.png)
+![image](https://user-images.githubusercontent.com/92300715/192144334-32fd8749-5a74-44ce-bb7c-3276b17d1b15.png)
+![image](https://user-images.githubusercontent.com/92300715/192144338-e26a48be-38c5-43e1-9e97-2d5366affff7.png)
+![image](https://user-images.githubusercontent.com/92300715/192144346-f7b54fc2-096a-4b38-8bd5-ba1b165b595a.png)
+
+
+
