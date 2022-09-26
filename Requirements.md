@@ -27,13 +27,11 @@ To-do list - це застосунок для Windows платформ, оріє
 ### Нефункціональні вимоги
 - Статичний розмір вікна застосунку, без можливості масштабування.
 - Мова застосунку - українська. :blue_square::yellow_square:
-- Додаток орієнтований для використання з ОС Windows.
+- Додаток орієнтований для використання з ОС Windows 10.
 - База даних PostreSQL.
-- Мова програмування - C#.
-- Фрейморк для інтерфейсу користувача - WPF.
 - Шифрування паролів зареєстрованих користувачів.
 ## Usecase діаграма
-![image](https://user-images.githubusercontent.com/92300715/192144187-4b107312-e63b-4651-a332-7798ab261d3d.png)
+![image](https://user-images.githubusercontent.com/92300715/192220609-5687dd64-d759-4d37-b6e4-fd39769da3c5.png)
 ## Макет
 ![image](https://user-images.githubusercontent.com/92300715/192144285-aa2179fe-b7d8-4c91-9ef1-151b9337620b.png)
 ![image](https://user-images.githubusercontent.com/92300715/192144300-ed58d16a-0eaa-4ffc-8ebb-8e2e97ad1af8.png)
