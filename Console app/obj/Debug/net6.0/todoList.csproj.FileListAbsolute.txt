@@ -1,0 +1,17 @@
+C:\Users\yuraa\Desktop\todoList\todoList\bin\Debug\net6.0\todoList.exe
+C:\Users\yuraa\Desktop\todoList\todoList\bin\Debug\net6.0\todoList.deps.json
+C:\Users\yuraa\Desktop\todoList\todoList\bin\Debug\net6.0\todoList.runtimeconfig.json
+C:\Users\yuraa\Desktop\todoList\todoList\bin\Debug\net6.0\todoList.dll
+C:\Users\yuraa\Desktop\todoList\todoList\bin\Debug\net6.0\todoList.pdb
+C:\Users\yuraa\Desktop\todoList\todoList\bin\Debug\net6.0\Npgsql.dll
+C:\Users\yuraa\Desktop\todoList\todoList\obj\Debug\net6.0\todoList.csproj.AssemblyReference.cache
+C:\Users\yuraa\Desktop\todoList\todoList\obj\Debug\net6.0\todoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuraa\Desktop\todoList\todoList\obj\Debug\net6.0\todoList.AssemblyInfoInputs.cache
+C:\Users\yuraa\Desktop\todoList\todoList\obj\Debug\net6.0\todoList.AssemblyInfo.cs
+C:\Users\yuraa\Desktop\todoList\todoList\obj\Debug\net6.0\todoList.csproj.CoreCompileInputs.cache
+C:\Users\yuraa\Desktop\todoList\todoList\obj\Debug\net6.0\todoList.csproj.CopyComplete
+C:\Users\yuraa\Desktop\todoList\todoList\obj\Debug\net6.0\todoList.dll
+C:\Users\yuraa\Desktop\todoList\todoList\obj\Debug\net6.0\refint\todoList.dll
+C:\Users\yuraa\Desktop\todoList\todoList\obj\Debug\net6.0\todoList.pdb
+C:\Users\yuraa\Desktop\todoList\todoList\obj\Debug\net6.0\todoList.genruntimeconfig.cache
+C:\Users\yuraa\Desktop\todoList\todoList\obj\Debug\net6.0\ref\todoList.dll

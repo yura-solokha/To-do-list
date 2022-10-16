@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/lQ8uCtUUp6xCbnOpi/NwmQohDMwLAHYs1UKTtNNAoUhfnw2XlWEyKU59EkXAgIQANmLR12SmYnIhYvxGfLR/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yuraa\\Desktop\\todoList\\todoList\\todoList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yuraa\\.nuget\\packages\\npgsql\\6.0.7\\npgsql.6.0.7.nupkg.sha512",
+    "C:\\Users\\yuraa\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
