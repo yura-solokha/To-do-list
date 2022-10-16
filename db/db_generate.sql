@@ -8,7 +8,7 @@ USE todo;
 
 CREATE TABLE users
 (
-    id integer NOT NULL,
+    id serial NOT NULL,
     email character varying(126) NOT NULL,
     password character varying(8) NOT NULL,
     PRIMARY KEY (id),
@@ -17,14 +17,14 @@ CREATE TABLE users
 
 CREATE TABLE categories
 (
-    id integer NOT NULL,
+    id serial NOT NULL,
     name character varying(56) NOT NULL,
     PRIMARY KEY (id)
 );
 
 CREATE TABLE tasks
 (
-    id integer NOT NULL,
+    id serial NOT NULL,
     name character varying(126) NOT NULL,
     is_done boolean NOT NULL,
     priority int NOT NULL,
