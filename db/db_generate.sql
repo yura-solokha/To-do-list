@@ -22,6 +22,11 @@ CREATE TABLE categories
     PRIMARY KEY (id)
 );
 
+INSERT INTO categories VALUES(1,'Покупки');
+INSERT INTO categories VALUES(2,'Продукти');
+INSERT INTO categories VALUES(3,'Бiзнес');
+INSERT INTO categories VALUES(4,'Особистий');
+
 CREATE TABLE tasks
 (
     id serial NOT NULL,
