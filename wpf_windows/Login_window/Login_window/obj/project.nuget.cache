@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "fg97oyPWl+cyDwunB6qJnbQ/QggcOhC4X6LQsNFskj/u8jFau+NW/VrDgp5+zDwO4jySR/nxmRJeud0jf5uNHA==",
+  "success": true,
+  "projectFilePath": "D:\\programming\\dot_net\\ToDoProject\\todofinal\\Login_window\\Login_window\\Login_window.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\easyg\\.nuget\\packages\\controlzex\\4.3.0\\controlzex.4.3.0.nupkg.sha512",
+    "C:\\Users\\easyg\\.nuget\\packages\\mahapps.metro\\2.0.0\\mahapps.metro.2.0.0.nupkg.sha512",
+    "C:\\Users\\easyg\\.nuget\\packages\\materialdesigncolors\\2.0.9\\materialdesigncolors.2.0.9.nupkg.sha512",
+    "C:\\Users\\easyg\\.nuget\\packages\\materialdesignthemes\\4.6.1\\materialdesignthemes.4.6.1.nupkg.sha512",
+    "C:\\Users\\easyg\\.nuget\\packages\\materialdesignthemes.mahapps\\0.2.5\\materialdesignthemes.mahapps.0.2.5.nupkg.sha512",
+    "C:\\Users\\easyg\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\easyg\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
