@@ -1,0 +1,24 @@
+﻿<Window x:Class="tasks_window.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:tasks_window"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <Border x:Name = "Title" Background="black" Width="800" Height="70">
+                <TextBlock x:Name="Title_text_box" 
+                           Text="ЗАВДАННЯ" Foreground="White" FontSize="30"
+                           HorizontalAlignment="Center" VerticalAlignment="Center">
+                </TextBlock>
+            </Border>
+        </StackPanel>
+        <StackPanel>
+            <Button x:Name="New_task_button" Foreground = "white" Background="Black" BorderThickness="0" Margin="0 380 0 0" Width="250" Click="New_task_click" >
+                СТВОРИТИ НОВЕ ЗАВДАННЯ
+            </Button>
+        </StackPanel>
+    </Grid>
+</Window>
