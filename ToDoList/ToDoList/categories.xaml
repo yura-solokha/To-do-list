@@ -1,0 +1,36 @@
+﻿<Window x:Class="ToDoList.categories"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ToDoList"
+        mc:Ignorable="d"
+        Title="categories" Height="450" Width="800">
+    <Grid Background="Gray">
+        <StackPanel>
+            <Border x:Name = "Title" Background="black" Width="800" Height="70">
+                <TextBlock x:Name="Title_text_box" 
+                           Text="ЗАВДАННЯ" Foreground="White" FontSize="30"
+                           HorizontalAlignment="Center" VerticalAlignment="Center">
+                </TextBlock>
+            </Border>
+        </StackPanel>
+        <StackPanel>
+
+        </StackPanel>
+
+        <StackPanel Background="white" ToolTip="АБОБА" Margin="275,117,274,105">
+            <TextBox x:Name="Task_name_block" Background="Transparent" ></TextBox>
+            <Button x:Name="Cansel_button" Foreground="Black" Background="Transparent" BorderThickness="0" Margin="0 155 140 0" Width="120" Click="Cansel_button_Click">Скасувати</Button>
+            <Button x:Name="Save_button" Foreground="Black" Background="Transparent" BorderThickness="0" Margin="0 -32 -100 0" Width="120" Click="Save_button_Click">Зберегти</Button>
+        </StackPanel>
+        <Border Background="red" Width="100" Height="100" Margin="0 0 400 0">
+            <TextBlock x:Name="TEST_TEXT" FontSize="20"></TextBlock>
+        </Border>
+        <StackPanel>
+            <Border x:Name="sex" Background="black" Margin="0 380 0 0" Width="250" Height="40" CornerRadius="1">
+                <TextBlock Text="Створити нове завдання" Foreground="White" FontSize="20" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBlock>
+            </Border>
+        </StackPanel>
+    </Grid>
+</Window>
