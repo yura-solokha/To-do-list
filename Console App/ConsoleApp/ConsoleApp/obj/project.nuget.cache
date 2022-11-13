@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7/9QSe1XkVPj5hw/FH8WetzA5zC3r5lcEmgZujTaPIYKMumeJVbDJfJEi7Vc+3T3bO+hMeAzxhGJSEdhgX7KHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\y_sol\\Desktop\\consoleApp\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\y_sol\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\y_sol\\.nuget\\packages\\npgsql\\7.0.0\\npgsql.7.0.0.nupkg.sha512",
+    "C:\\Users\\y_sol\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
